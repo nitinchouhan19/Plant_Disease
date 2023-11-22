@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Plant_Disease/static/css/main.cfad5c31.css",
+    "main.js": "/Plant_Disease/static/js/main.14ae7393.js",
+    "static/media/Lalini.png": "/Plant_Disease/static/media/Lalini.db338937d986abe12b8d.png",
+    "static/media/Kunal.jpg": "/Plant_Disease/static/media/Kunal.08772faa44e7642064fa.jpg",
+    "static/media/Nitin.jpg": "/Plant_Disease/static/media/Nitin.2eb27e7604c439f6c825.jpg",
+    "static/media/plant.webp": "/Plant_Disease/static/media/plant.be1da57893caea845f16.webp",
+    "static/media/Khushboo.jpg": "/Plant_Disease/static/media/Khushboo.0082d08937c2263cdf11.jpg",
+    "static/media/Kshitiz.jpg": "/Plant_Disease/static/media/Kshitiz.58be76e1688fb9b30ff0.jpg",
+    "static/media/EarlyBlight_3.JPG": "/Plant_Disease/static/media/EarlyBlight_3.fee25dacd1d29abcd384.JPG",
+    "static/media/EarlyBlight_1.JPG": "/Plant_Disease/static/media/EarlyBlight_1.e17f1502cd7e7ffe33a7.JPG",
+    "static/media/EarlyBlight_2.JPG": "/Plant_Disease/static/media/EarlyBlight_2.e952ad5e712c60399004.JPG",
+    "static/media/LateBlight_3.JPG": "/Plant_Disease/static/media/LateBlight_3.34e33790895e128e82c0.JPG",
+    "static/media/LateBlight_2.JPG": "/Plant_Disease/static/media/LateBlight_2.b41223927e9b27cf3de5.JPG",
+    "static/media/LateBlight_1.JPG": "/Plant_Disease/static/media/LateBlight_1.6dd8db08fc2cc83ea324.JPG",
+    "index.html": "/Plant_Disease/index.html",
+    "main.cfad5c31.css.map": "/Plant_Disease/static/css/main.cfad5c31.css.map",
+    "main.14ae7393.js.map": "/Plant_Disease/static/js/main.14ae7393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfad5c31.css",
+    "static/js/main.14ae7393.js"
+  ]
+}
